@@ -1,0 +1,49 @@
+#first {
+	font-size: 45px;
+	font-weight: bold;
+}
+#third {
+	font-size: 16px;
+	font-family: serif;
+}
+#forth {
+	font-size: 11px;
+	font-family: serif;
+	color: grey;
+}
+li {
+	font-size: 14px;
+	font-family: serif;
+	color: grey;
+}
+#second {
+	font-size: 13px;
+	font-family: verdana;
+	color: #0041C2;
+	font-weight: bold;
+}
+#left {
+	width: 400px;
+	float: left;
+	position: relative;
+	left: 50px;
+}
+b {
+	font-weight: bold;
+}
+#right {
+	float:left;
+	position: relative;
+	left: 100px;
+	top: 50px;
+}
+#sixth {
+	font-family: sans-serif;
+	font-size: 11px;
+}
+#seventh {
+	color: grey;
+}
+  br {
+    line-height: 20px;
+ }
