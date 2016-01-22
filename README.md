@@ -1,3 +1,3 @@
 # Ivan Grafutko Resume
 
-A version of resume writter purely in HTML/CSS
+A version of resume written purely in HTML/CSS
