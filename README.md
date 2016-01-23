@@ -1,2 +1,2 @@
-# IvanSG
-Github is an awesome tool.
+#Ivan Grafutko
+This is my main github repository.
