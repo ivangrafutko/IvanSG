@@ -1,18 +1,18 @@
-#Tittle {
+#tittle {
 	font-size: 45px;
 	font-weight: bold;
 }
-.Category {
+.category {
 	font-size: 13px;
 	font-family: verdana;
 	color: #0041C2;
 	font-weight: bold;
 }
-.Establishment {
+.establishment {
 	font-size: 16px;
 	font-family: serif;
 }
-.Date {
+.date {
 	font-size: 11px;
 	font-family: serif;
 	color: grey;
@@ -37,11 +37,11 @@ b {
 	left: 100px;
 	top: 50px;
 }
-#Address {
+#address {
 	font-family: sans-serif;
 	font-size: 11px;
 }
-.List {
+.list {
 	color: grey;
 }
   br {
